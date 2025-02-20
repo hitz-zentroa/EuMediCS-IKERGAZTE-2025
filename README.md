@@ -21,8 +21,8 @@
 
 1. Corpus bilketa eta kateamendua
 2. [Bifixer](https://github.com/bitextor/bifixer) erabilita corpus paraleloen garbiketa orokorra burutu eta corpus elebidunen kalitatea hobetzen da.
-3. Esaldien filtraketa burutzen da LaBSE similarity aplikatuz, errepresentazio bektorialak erabiliz esaldi paralelo pareak identifikatuz → [``LAaBSE_similarity_batches.py``](https://github.com/Maits27/IKERGAZTE/blob/main/LaBSE_similarity_batches.py)
-4. Esaldi duplikatuak kentzen dira → [``remove_duplicates.perl``](https://github.com/Maits27/IKERGAZTE/blob/main/remove_duplicates.perl)
+3. Esaldien filtraketa burutzen da LaBSE similarity aplikatuz, errepresentazio bektorialak erabiliz esaldi paralelo pareak identifikatuz → [``LAaBSE_similarity_batches.py``](LaBSE_similarity_batches.py)
+4. Esaldi duplikatuak kentzen dira → [``remove_duplicates.perl``](remove_duplicates.perl)
 
 
 ## Entrenamendua
