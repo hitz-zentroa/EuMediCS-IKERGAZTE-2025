@@ -54,9 +54,9 @@ Ereduak entrenatzeko, [MarianMT](https://huggingface.co/docs/transformers/model_
 
 Entrenatutako hiru itzultzaileak *HuggingFace* webgunean eskegita daude haien atzipena errazteko. Sortutako modeloak PyTorch-era moldatu dira haien erabilpena errazteko.
 
-* Eleaniztun eredua (ingelesetik zein gaztelaniatik euskerarako itzultzailea): [anegda/medical_enes-eu](https://huggingface.co/anegda/medical_enes-eu)
-* Gaztelaniatik euskerarako itzultzailea: [anegda/medical_es-eu](https://huggingface.co/anegda/medical_es-eu)
-* Ingelesetik euskerarako itzultzailea: [anegda/medical_en-eu](https://huggingface.co/anegda/medical_en-eu) 
+* Eleaniztun eredua (ingelesetik zein gaztelaniatik euskerarako itzultzailea): [HiTZ/medical_enes-eu](https://huggingface.co/HiTZ/medical_enes-eu)
+* Gaztelaniatik euskerarako itzultzailea: [HiTZ/medical_es-eu](https://huggingface.co/HiTZ/medical_es-eu)
+* Ingelesetik euskerarako itzultzailea: [HiTZ/medical_en-eu](https://huggingface.co/HiTZ/medical_en-eu) 
 
 ## Itzulpenak
 
