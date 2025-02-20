@@ -1,4 +1,4 @@
-# IKERGAZTE 2025: Medikuntzaren Domeinuko Euskarazko Corpus Sintetikoa Sortzen: Itzultzaile Automatikoen Ekarpena
+# EuMediCS - IKERGAZTE 2025: Euskarazko Medikuntzaren Domeinuko Corpus Sintetikoa: Itzultzaile Automatikoen Ekarpena
 **Egileak:**
 
 ## Itzultzailetan erabilitako datuak
