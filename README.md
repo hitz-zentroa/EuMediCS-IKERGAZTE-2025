@@ -1,5 +1,7 @@
 # EuMediCS - IKERGAZTE 2025: Euskarazko Medikuntzaren Domeinuko Corpus Sintetikoa: Itzultzaile Automatikoen Ekarpena
-**Egileak:**
+**Egileak:** Ane García Domingo-Aldama[^*], Irune Palacios[^*], Maitane Urruela, Iker De la Iglesia, Ander Barrena, Josu Goikoetxea
+
+[^*]:Pareko ekarpena.
 
 ## Itzultzailetan erabilitako datuak
 
@@ -61,4 +63,15 @@ Entrenatutako hiru itzultzaileak *HuggingFace* webgunean eskegita daude haien at
 ## Itzulpenak
 
 Itzulpenak ereduekin egin ahal izateko [``translate.py``](https://github.com/Maits27/IKERGAZTE/blob/main/translate.py) script-a baliatu da, eredu ezberdinak zuzenean *HuggingFace*-etik atxikituz. 
+
+## Kontaktua
+
+| Egilea                    | Posta elektronikoa          |
+|---------------------------|-----------------------------|
+| Ane García Domingo-Aldama | ane.garciad@ehu.eus         |
+| Irune Palacios            | ipalacios017@ikasle.ehu.eus |
+| Maitane Urruela           | murruela002@ikasle.ehu.eus  |
+| Iker De la Iglesia        | iker.delaiglesia@ehu.eus    |
+| Ander Barrena             | ander.barrena@ehu.eus       |
+| Josu Goikoetxea           | josu.goikoetxea@ehu.eus     |
 
