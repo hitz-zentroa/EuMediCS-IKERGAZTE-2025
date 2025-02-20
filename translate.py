@@ -6,9 +6,9 @@ src_text_multilingual = ["The patient had brain damage", "El paciente tiene dañ
 #src_text_es = ["El paciente tiene daño cerebral"]
 #src_text_en = ["The patient had brain damage"]
 
-model_name_multilingual = "anegda/medical_enes-eu"
-#model_name_es = "anegda/medical_es-eu"
-#model_name_en = "anegda/medical_en-eu"
+model_name_multilingual = "HiTZ/medical_enes-eu"
+#model_name_es = "HiTZ/medical_es-eu"
+#model_name_en = "HiTZ/medical_en-eu"
 
 tokenizer = MarianTokenizer.from_pretrained(model_name_multilingual)
 
