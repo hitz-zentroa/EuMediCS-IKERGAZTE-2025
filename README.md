@@ -1,4 +1,4 @@
-# IKERGAZTE: Medikuntzaren Domeinuko Corpus Erraldoia - Domeinura egokitutako Euskarazko Adimen Artifizialaren erroak.
+# IKERGAZTE 2025: Medikuntzaren Domeinuko Euskarazko Corpus Sintetikoa Sortzen: Itzultzaile Automatikoen Ekarpena
 **Egileak:**
 
 ## Itzultzailetan erabilitako datuak
